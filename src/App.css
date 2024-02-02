@@ -1,0 +1,8 @@
+.divider {
+    height: 1px;
+    background-color: var(--gray-650);
+
+    margin-top: 12px;
+    margin-left: 16px;
+    margin-right: 16px;
+}

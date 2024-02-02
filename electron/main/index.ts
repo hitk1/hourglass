@@ -51,8 +51,8 @@ async function createWindow() {
     webPreferences: {
       preload
     },
-    width: 250,
-    height: 310,
+    width: 300,
+    height: 410,
     frame: false,
     resizable: false,
     fullscreen: false

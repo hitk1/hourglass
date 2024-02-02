@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --gray-650: #525459;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+h1, h2, h3, h4 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p, span, input {
+    font-family: 'Roboto', sans-serif;
+}
